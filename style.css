@@ -151,6 +151,8 @@ body {
 .features_list {
     margin-top: var(--default-margin);
     font-size: 15px;
+    display: flex;
+    flex-direction: column;
 }
 
 .features_item {
